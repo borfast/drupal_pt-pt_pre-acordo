@@ -4,7 +4,7 @@ Há alguns membros da equipa de tradução que se opõem a isso (eu, por exemplo
 
 **Quero deixar claro desde já que, apesar de me opôr ao acordo ortográfico, compreendo a decisão do Miguel e de certo modo, de um ponto de vista "político" ou "legal", até concordo com ela.**
 
-No entanto, há quem se oponha ao acordo, pelo menos parcialmente (novamente eu, por exemplo), e se recuse a usar a nova grafia. Os motivos para tal são vários e vão desde a opinião pessoal à necessidade profissional (já tive alguns clientes que, após a conclusão do projecto de construção do seu site, se vieram queixar de que o mesmo estava cheio de erros ortográficos). Não interessa para aqui que motivos são esses e quem é que tem razão; o facto é que existe a necessidade de uma tradução pré-acordo, e por isso decidi criar este pequeno projecto de tradução alternativa do Drupal.
+No entanto, há quem se oponha ao acordo, pelo menos parcialmente (novamente eu, por exemplo), e se recuse a usar a nova grafia. Os motivos para tal são vários e vão desde a opinião pessoal à necessidade profissional (já tive alguns clientes que, após a conclusão do projecto de construção do seu site, se vieram queixar de que o mesmo estava cheio de erros ortográficos). Este tema é matéria de grandes discussões mas não interessa para aqui que motivos cada um tem para a sua opinião ou quem é que tem razão; o facto é que existe a necessidade de uma tradução pré-acordo, e por isso decidi criar este pequeno projecto de tradução alternativa do Drupal.
 
 Por isso decidi criar este pequeno projecto de tradução alternativa do Drupal.
 
