@@ -2,7 +2,9 @@
 	"replacements": {
 		"Ativo": "Activo",
 		"Ativar": "Activar",
-		"Desativar": "Desactivar"
+		"Desativar": "Desactivar",
+		"projetos" : "projectos",
+		"Ações" : "Acções"
 	}
 }
 

@@ -8,6 +8,6 @@ No entanto, há quem se oponha ao acordo, pelo menos parcialmente (novamente eu,
 
 **De notar que não tenho como objectivo dividir a equipa de tradução, pois sou da opinião de que, sendo poucos, devemos unir esforços.**
 
-Em vez de criar um novo projecto de tradução completo, criei um "script" que procura e substitui as palavras indesejadas no ficheiro de tradução original, o qual pode ser posteriormente importado para o site. Ou seja, isto será sempre uma tarefa muito menos trabalhosa do que traduzir o Drupal do princípio ao fim, e por isso não vai desviar esforços da tradução oficial.
+Assim sendo, em vez de criar um novo projecto de tradução completo, criei um "script" que procura e substitui as palavras indesejadas no ficheiro de tradução original, o qual pode ser posteriormente importado para o site. Ou seja, isto será sempre uma tarefa muito menos trabalhosa do que traduzir o Drupal do princípio ao fim, e por isso não vai desviar esforços da tradução oficial.
 
 A ideia é coleccionar as palavras que quero substituir, compilá-las numa lista, e usar o script para ler a lista de palavras a substituir e aplicar as alterações necessárias ao ficheiro de tradução. Se der jeito a mais alguém, melhor ainda, outras pessoas podem contribuir com mais palavras para a lista e ganhamos todos. Se mais ninguém quiser saber disto, não faz mal, faz-me falta a mim, portanto não é trabalho desperdiçado.
