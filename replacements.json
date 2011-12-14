@@ -1,10 +1,19 @@
 {
 	"replacements": {
+		"ações" : "acções",
+		"Ações" : "Acções",
+		"afetar" : "afectar",
 		"Ativo": "Activo",
 		"Ativar": "Activar",
+		"atual" : "actual",
+		"atualizações" : "actualizações",
+		"Atualizar": "Actualizar",
 		"Desativar": "Desactivar",
+		"diretoria" : "directoria",
 		"projetos" : "projectos",
-		"Ações" : "Acções"
+		"selecionado" : "seleccionado",
+		"Selecionar" : "Seleccionar",
+		"Selecione" : "Seleccione"
 	}
 }
 
